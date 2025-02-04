@@ -7,3 +7,6 @@ pandas
 matplotlib
 transformers
 huggingface_hub
+torch 
+torchvision 
+torchaudio
